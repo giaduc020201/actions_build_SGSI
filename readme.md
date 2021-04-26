@@ -21,5 +21,5 @@
 每次构建成功后山除掉 自动上传的的版本否则下次将会上传失败
 结果在[Release](../../releases)下载
 
-如果将rom上传至WeTransfer下载 清修改sgsi.json的 upload_wetransfer: 'false' -> 'true'
+如果将rom上传至WeTransfer下载 请修改sgsi.json的 upload_wetransfer: 'false' -> 'true'
 上传好后的下载链接，留意输出结果 Download Link
