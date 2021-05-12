@@ -1,4 +1,4 @@
-name: build_SGSI-11.
+name: build_SGSI
 
 on: 
   watch: 
