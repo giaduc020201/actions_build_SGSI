@@ -5,7 +5,7 @@
   "make_type": "AB",
   "rom_type": "MIUI",
   "light_fix": true,
-  "bug_fix": MIUI,
+  "bug_fix": true,
   "version": "11",
   "upload_transfer": true,
   "upload_release": false,
